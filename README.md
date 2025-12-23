@@ -8,7 +8,7 @@
 
 ### Решение
 
-[Конфиг задачи 1](configs/task_1/haproxy.cfg "haproxy.cfg для задания 1")
+[Конфиг задачи 1](configs/task_1/haproxy.cfg "haproxy.cfg :")
 ```
 global
     log /dev/log local0
@@ -63,8 +63,7 @@ listen tcp_frontend
 
 
 ### Решение
-
-haproxy.cfg :
+[Конфиг задачи 1](configs/task_2/haproxy.cfg "haproxy.cfg :")
 ```
     log /dev/log local0
     log /dev/log local1 notice
