@@ -8,7 +8,7 @@
 
 ### Решение
 
-haproxy.cfg :
+[Конфиг задачи 1](configs/task_1/haproxy.cfg "haproxy.cfg для задания 1")
 ```
 global
     log /dev/log local0
